@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BareCore", "src\BareCore\BareCore.csproj", "{9E79B942-6DE4-4062-BAE5-4E752E33F452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E79B942-6DE4-4062-BAE5-4E752E33F452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E79B942-6DE4-4062-BAE5-4E752E33F452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E79B942-6DE4-4062-BAE5-4E752E33F452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E79B942-6DE4-4062-BAE5-4E752E33F452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25AAAB8B-C1DD-4927-BDF4-1AB7455D0CDE}
+	EndGlobalSection
+EndGlobal
